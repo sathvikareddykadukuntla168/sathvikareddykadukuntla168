@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sathvika Reddy!!!
 - CSE @IITR'23
-- 👀 I’m interested in Software Development, DSA, IOT and Competitive Programming.
+- 👀 I’m interested in Software Development, DSA, IoT and Competitive Programming.
 - 🌱 I’m currently learning  Data Science, Computer Networks.
 - 💞️ I’m looking to collaborate on any new innovative Idea
 - 📫 How to reach me : 
